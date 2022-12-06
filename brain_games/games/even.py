@@ -16,4 +16,3 @@ def question():
 def answer():
     user_answer = input("Your answer:")
     return user_answer
-

@@ -18,7 +18,3 @@ def logic():
                 )
             return False
     return True
-    
-
-
-
